@@ -7,7 +7,7 @@ The best Minecraft launcher.
 Clone this repo
 
 ```bash
-git clone --depth=1 git@github.com:mukaschultze/tlauncher-tl.git tlauncher
+git clone --depth=1 https://github.com/mukaschultze/tlauncher-tl.git tlauncher
 ```
 
 Open the installer folder
