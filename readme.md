@@ -31,5 +31,5 @@ cd ..
 Remove temporary installer files
 
 ```bash
-rm -rf launcher
+rm -rf tlauncher
 ```
